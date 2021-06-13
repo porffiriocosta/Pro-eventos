@@ -1,0 +1,17 @@
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\AngularProjetos\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
